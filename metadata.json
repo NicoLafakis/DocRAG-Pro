@@ -1,0 +1,5 @@
+{
+  "name": "DocRAG Pro",
+  "description": "A landing page for DocRAG Pro, an intelligent document-to-RAG conversion platform that transforms unstructured documents into optimized, searchable knowledge bases.",
+  "requestFramePermissions": []
+}
